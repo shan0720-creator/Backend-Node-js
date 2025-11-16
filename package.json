@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "udemy",
+    "course",
+    "backend",
+    "API",
+    "creation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "udemy course"
+  },
+  "license": "ISC",
+  "author": "Shantanu Sahay",
+  "type": "commonjs",
+  "main": "index.js",
+  "module": "esm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
