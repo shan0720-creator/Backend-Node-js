@@ -1,2 +1,30 @@
+# dependencies
+node_modules/
+
+# local env files
+.env
+
+# logs
+npm-debug.log*
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# build output
+dist/
+build/
+
+# npm
+package-lock.json
+
+# public uploads
+public/uploads/
 node_modules
 .env
